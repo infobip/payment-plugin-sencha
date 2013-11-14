@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:12
+-keep class c.mpayments.android.BillingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.infobip.MySencha.MySencha { <init>(...); }
+
