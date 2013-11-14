@@ -100,4 +100,4 @@ If offline mode is set to true, it is necessary to replace `<mySenchaProject>/co
 Examples
 --------
 
-In [`app.js`](app.js) is the example of plugin usage. 
+In [`browse/app.js`](app.js) is the example of plugin usage. 
