@@ -1,0 +1,12 @@
+{
+    "name": "Centili Mobile Payments",
+    "type": "centili",
+    "creator": "Infobip",
+    "summary": "Monetize your Android application using Infobip's Mobile Payments platform Centili for in-app purchases.",
+    "detailedDescription": "",
+    "version": "1.0.0",
+    "compatVersion": "1.0.0",
+    "format": "1",
+    "local": true,
+    "requires": []
+}
