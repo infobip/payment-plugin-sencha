@@ -53,14 +53,14 @@ Ext.application({
     //Centili Mobile Payment
     startPayment: function() {
         var args = {
-            "apiKey": "475517e9203366a767e392ddfe225a00",
-            "clientId": "abc123",
-            "info": "info",
+            "apiKey": "<API-KEY>",
+            "clientId": "<CLIENT-ID>",
+            "info": "<ADDITIONAL-INFO>",
             "languageCode": "EN",
             // "packageIndex": 0,
             // "price": 30,
             "offline": false,
-            "testMode": false
+            "testMode": true
         }
 
         var success = function(purchaseResponse) {
